@@ -1,0 +1,4048 @@
+{
+  "checked": 449,
+  "passed": 449,
+  "failed": 0,
+  "results": [
+    {
+      "sku": "JF0001",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0001",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0003",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0006",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0006/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0006",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0006/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0006",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0006/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0008",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0009",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0009",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0009",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0009",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0009",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0009",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0010",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0012",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0017",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0018",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0018",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0018",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0018",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0018",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0018",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0019",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0019/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0019",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0019/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0019",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0019/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0019",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0019/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0020",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0021",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0022",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0023",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0024",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0026",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0026/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0026",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0026/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0026",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0026/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0027",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0033",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0034",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0034",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0034",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0034",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0034",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0037",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0037",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0037",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0037",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0037",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0037",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0038",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0039",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0040",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0041",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0042",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0043",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0046",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0046/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0046",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0046/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0046",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0046/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0046",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0046/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0048",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0054",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0057",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0057/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0057",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0057/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0057",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0057/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0057",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0057/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0058",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0061",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0066",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0066/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0066",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0066/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0066",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0066/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0066",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0066/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0067",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0072",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0075",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0076",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0076/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0076",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0076/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0076",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0076/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0076",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0076/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0078",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0079",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0082",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0084",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0085",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0086",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0093",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0093",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0093",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0093",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0093",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0093",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0094",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0103",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0104",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0105",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0117",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0118",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0119",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0120",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0121",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0121",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0121",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0121",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0121",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0121",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0122",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0147",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0147",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0147",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0147",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0147",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0151",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0152",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0153",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0154",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0155",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0156",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0157",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 1,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/01.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 2,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/02.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 3,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/03.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 4,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/04.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 5,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/05.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 6,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/06.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 7,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/07.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    },
+    {
+      "sku": "JF0158",
+      "slot": 8,
+      "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/08.jpg",
+      "status": 206,
+      "content_type": "image/jpeg",
+      "jpeg_magic": true,
+      "ok": true
+    }
+  ]
+}
