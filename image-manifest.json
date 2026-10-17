@@ -56,6 +56,13 @@
     "size_bytes": 150320
   },
   {
+    "sku": "JF0001",
+    "slot": 9,
+    "path": "tiktok-sg/JF0001/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0001/09.jpg",
+    "size_bytes": 72575
+  },
+  {
     "sku": "JF0003",
     "slot": 1,
     "path": "tiktok-sg/JF0003/01.jpg",
@@ -112,6 +119,13 @@
     "size_bytes": 330795
   },
   {
+    "sku": "JF0003",
+    "slot": 9,
+    "path": "tiktok-sg/JF0003/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0003/09.jpg",
+    "size_bytes": 90739
+  },
+  {
     "sku": "JF0006",
     "slot": 1,
     "path": "tiktok-sg/JF0006/01.jpg",
@@ -131,6 +145,13 @@
     "path": "tiktok-sg/JF0006/03.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0006/03.jpg",
     "size_bytes": 258736
+  },
+  {
+    "sku": "JF0006",
+    "slot": 4,
+    "path": "tiktok-sg/JF0006/04.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0006/04.jpg",
+    "size_bytes": 85518
   },
   {
     "sku": "JF0008",
@@ -182,6 +203,13 @@
     "size_bytes": 224638
   },
   {
+    "sku": "JF0008",
+    "slot": 8,
+    "path": "tiktok-sg/JF0008/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0008/08.jpg",
+    "size_bytes": 89238
+  },
+  {
     "sku": "JF0009",
     "slot": 1,
     "path": "tiktok-sg/JF0009/01.jpg",
@@ -222,6 +250,13 @@
     "path": "tiktok-sg/JF0009/06.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/06.jpg",
     "size_bytes": 253745
+  },
+  {
+    "sku": "JF0009",
+    "slot": 7,
+    "path": "tiktok-sg/JF0009/07.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0009/07.jpg",
+    "size_bytes": 94984
   },
   {
     "sku": "JF0010",
@@ -280,6 +315,13 @@
     "size_bytes": 278510
   },
   {
+    "sku": "JF0010",
+    "slot": 9,
+    "path": "tiktok-sg/JF0010/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0010/09.jpg",
+    "size_bytes": 102765
+  },
+  {
     "sku": "JF0012",
     "slot": 1,
     "path": "tiktok-sg/JF0012/01.jpg",
@@ -334,6 +376,13 @@
     "path": "tiktok-sg/JF0012/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/08.jpg",
     "size_bytes": 289616
+  },
+  {
+    "sku": "JF0012",
+    "slot": 9,
+    "path": "tiktok-sg/JF0012/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0012/09.jpg",
+    "size_bytes": 89896
   },
   {
     "sku": "JF0017",
@@ -392,6 +441,13 @@
     "size_bytes": 254061
   },
   {
+    "sku": "JF0017",
+    "slot": 9,
+    "path": "tiktok-sg/JF0017/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0017/09.jpg",
+    "size_bytes": 73329
+  },
+  {
     "sku": "JF0018",
     "slot": 1,
     "path": "tiktok-sg/JF0018/01.jpg",
@@ -434,6 +490,13 @@
     "size_bytes": 254910
   },
   {
+    "sku": "JF0018",
+    "slot": 7,
+    "path": "tiktok-sg/JF0018/07.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0018/07.jpg",
+    "size_bytes": 121779
+  },
+  {
     "sku": "JF0019",
     "slot": 1,
     "path": "tiktok-sg/JF0019/01.jpg",
@@ -460,6 +523,13 @@
     "path": "tiktok-sg/JF0019/04.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0019/04.jpg",
     "size_bytes": 274867
+  },
+  {
+    "sku": "JF0019",
+    "slot": 5,
+    "path": "tiktok-sg/JF0019/05.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0019/05.jpg",
+    "size_bytes": 98868
   },
   {
     "sku": "JF0020",
@@ -518,6 +588,13 @@
     "size_bytes": 151059
   },
   {
+    "sku": "JF0020",
+    "slot": 9,
+    "path": "tiktok-sg/JF0020/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0020/09.jpg",
+    "size_bytes": 84890
+  },
+  {
     "sku": "JF0021",
     "slot": 1,
     "path": "tiktok-sg/JF0021/01.jpg",
@@ -572,6 +649,13 @@
     "path": "tiktok-sg/JF0021/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/08.jpg",
     "size_bytes": 223656
+  },
+  {
+    "sku": "JF0021",
+    "slot": 9,
+    "path": "tiktok-sg/JF0021/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0021/09.jpg",
+    "size_bytes": 57267
   },
   {
     "sku": "JF0022",
@@ -630,6 +714,13 @@
     "size_bytes": 166162
   },
   {
+    "sku": "JF0022",
+    "slot": 9,
+    "path": "tiktok-sg/JF0022/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0022/09.jpg",
+    "size_bytes": 107063
+  },
+  {
     "sku": "JF0023",
     "slot": 1,
     "path": "tiktok-sg/JF0023/01.jpg",
@@ -684,6 +775,13 @@
     "path": "tiktok-sg/JF0023/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/08.jpg",
     "size_bytes": 285383
+  },
+  {
+    "sku": "JF0023",
+    "slot": 9,
+    "path": "tiktok-sg/JF0023/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0023/09.jpg",
+    "size_bytes": 115447
   },
   {
     "sku": "JF0024",
@@ -742,6 +840,13 @@
     "size_bytes": 177756
   },
   {
+    "sku": "JF0024",
+    "slot": 9,
+    "path": "tiktok-sg/JF0024/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0024/09.jpg",
+    "size_bytes": 96862
+  },
+  {
     "sku": "JF0026",
     "slot": 1,
     "path": "tiktok-sg/JF0026/01.jpg",
@@ -761,6 +866,13 @@
     "path": "tiktok-sg/JF0026/03.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0026/03.jpg",
     "size_bytes": 207074
+  },
+  {
+    "sku": "JF0026",
+    "slot": 4,
+    "path": "tiktok-sg/JF0026/04.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0026/04.jpg",
+    "size_bytes": 90304
   },
   {
     "sku": "JF0027",
@@ -819,6 +931,13 @@
     "size_bytes": 284223
   },
   {
+    "sku": "JF0027",
+    "slot": 9,
+    "path": "tiktok-sg/JF0027/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0027/09.jpg",
+    "size_bytes": 115603
+  },
+  {
     "sku": "JF0033",
     "slot": 1,
     "path": "tiktok-sg/JF0033/01.jpg",
@@ -868,6 +987,13 @@
     "size_bytes": 191558
   },
   {
+    "sku": "JF0033",
+    "slot": 8,
+    "path": "tiktok-sg/JF0033/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0033/08.jpg",
+    "size_bytes": 105671
+  },
+  {
     "sku": "JF0034",
     "slot": 1,
     "path": "tiktok-sg/JF0034/01.jpg",
@@ -901,6 +1027,13 @@
     "path": "tiktok-sg/JF0034/05.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/05.jpg",
     "size_bytes": 263101
+  },
+  {
+    "sku": "JF0034",
+    "slot": 6,
+    "path": "tiktok-sg/JF0034/06.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0034/06.jpg",
+    "size_bytes": 128253
   },
   {
     "sku": "JF0037",
@@ -943,6 +1076,13 @@
     "path": "tiktok-sg/JF0037/06.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/06.jpg",
     "size_bytes": 276332
+  },
+  {
+    "sku": "JF0037",
+    "slot": 7,
+    "path": "tiktok-sg/JF0037/07.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0037/07.jpg",
+    "size_bytes": 57936
   },
   {
     "sku": "JF0038",
@@ -1001,6 +1141,13 @@
     "size_bytes": 217517
   },
   {
+    "sku": "JF0038",
+    "slot": 9,
+    "path": "tiktok-sg/JF0038/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0038/09.jpg",
+    "size_bytes": 130002
+  },
+  {
     "sku": "JF0039",
     "slot": 1,
     "path": "tiktok-sg/JF0039/01.jpg",
@@ -1055,6 +1202,13 @@
     "path": "tiktok-sg/JF0039/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/08.jpg",
     "size_bytes": 277900
+  },
+  {
+    "sku": "JF0039",
+    "slot": 9,
+    "path": "tiktok-sg/JF0039/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0039/09.jpg",
+    "size_bytes": 115404
   },
   {
     "sku": "JF0040",
@@ -1113,6 +1267,13 @@
     "size_bytes": 184832
   },
   {
+    "sku": "JF0040",
+    "slot": 9,
+    "path": "tiktok-sg/JF0040/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0040/09.jpg",
+    "size_bytes": 106787
+  },
+  {
     "sku": "JF0041",
     "slot": 1,
     "path": "tiktok-sg/JF0041/01.jpg",
@@ -1167,6 +1328,13 @@
     "path": "tiktok-sg/JF0041/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/08.jpg",
     "size_bytes": 220122
+  },
+  {
+    "sku": "JF0041",
+    "slot": 9,
+    "path": "tiktok-sg/JF0041/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0041/09.jpg",
+    "size_bytes": 137604
   },
   {
     "sku": "JF0042",
@@ -1225,6 +1393,13 @@
     "size_bytes": 243552
   },
   {
+    "sku": "JF0042",
+    "slot": 9,
+    "path": "tiktok-sg/JF0042/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0042/09.jpg",
+    "size_bytes": 144273
+  },
+  {
     "sku": "JF0043",
     "slot": 1,
     "path": "tiktok-sg/JF0043/01.jpg",
@@ -1281,6 +1456,13 @@
     "size_bytes": 203707
   },
   {
+    "sku": "JF0043",
+    "slot": 9,
+    "path": "tiktok-sg/JF0043/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0043/09.jpg",
+    "size_bytes": 147251
+  },
+  {
     "sku": "JF0046",
     "slot": 1,
     "path": "tiktok-sg/JF0046/01.jpg",
@@ -1307,6 +1489,13 @@
     "path": "tiktok-sg/JF0046/04.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0046/04.jpg",
     "size_bytes": 243114
+  },
+  {
+    "sku": "JF0046",
+    "slot": 5,
+    "path": "tiktok-sg/JF0046/05.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0046/05.jpg",
+    "size_bytes": 94374
   },
   {
     "sku": "JF0048",
@@ -1365,6 +1554,13 @@
     "size_bytes": 183915
   },
   {
+    "sku": "JF0048",
+    "slot": 9,
+    "path": "tiktok-sg/JF0048/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0048/09.jpg",
+    "size_bytes": 106586
+  },
+  {
     "sku": "JF0054",
     "slot": 1,
     "path": "tiktok-sg/JF0054/01.jpg",
@@ -1421,6 +1617,13 @@
     "size_bytes": 218337
   },
   {
+    "sku": "JF0054",
+    "slot": 9,
+    "path": "tiktok-sg/JF0054/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0054/09.jpg",
+    "size_bytes": 120935
+  },
+  {
     "sku": "JF0057",
     "slot": 1,
     "path": "tiktok-sg/JF0057/01.jpg",
@@ -1447,6 +1650,13 @@
     "path": "tiktok-sg/JF0057/04.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0057/04.jpg",
     "size_bytes": 233844
+  },
+  {
+    "sku": "JF0057",
+    "slot": 5,
+    "path": "tiktok-sg/JF0057/05.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0057/05.jpg",
+    "size_bytes": 92535
   },
   {
     "sku": "JF0058",
@@ -1505,6 +1715,13 @@
     "size_bytes": 185798
   },
   {
+    "sku": "JF0058",
+    "slot": 9,
+    "path": "tiktok-sg/JF0058/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0058/09.jpg",
+    "size_bytes": 83277
+  },
+  {
     "sku": "JF0061",
     "slot": 1,
     "path": "tiktok-sg/JF0061/01.jpg",
@@ -1561,6 +1778,13 @@
     "size_bytes": 295661
   },
   {
+    "sku": "JF0061",
+    "slot": 9,
+    "path": "tiktok-sg/JF0061/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0061/09.jpg",
+    "size_bytes": 128481
+  },
+  {
     "sku": "JF0066",
     "slot": 1,
     "path": "tiktok-sg/JF0066/01.jpg",
@@ -1587,6 +1811,13 @@
     "path": "tiktok-sg/JF0066/04.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0066/04.jpg",
     "size_bytes": 230919
+  },
+  {
+    "sku": "JF0066",
+    "slot": 5,
+    "path": "tiktok-sg/JF0066/05.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0066/05.jpg",
+    "size_bytes": 89300
   },
   {
     "sku": "JF0067",
@@ -1645,6 +1876,13 @@
     "size_bytes": 169238
   },
   {
+    "sku": "JF0067",
+    "slot": 9,
+    "path": "tiktok-sg/JF0067/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0067/09.jpg",
+    "size_bytes": 49131
+  },
+  {
     "sku": "JF0072",
     "slot": 1,
     "path": "tiktok-sg/JF0072/01.jpg",
@@ -1699,6 +1937,13 @@
     "path": "tiktok-sg/JF0072/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/08.jpg",
     "size_bytes": 173823
+  },
+  {
+    "sku": "JF0072",
+    "slot": 9,
+    "path": "tiktok-sg/JF0072/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0072/09.jpg",
+    "size_bytes": 125848
   },
   {
     "sku": "JF0075",
@@ -1757,6 +2002,13 @@
     "size_bytes": 165347
   },
   {
+    "sku": "JF0075",
+    "slot": 9,
+    "path": "tiktok-sg/JF0075/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0075/09.jpg",
+    "size_bytes": 99061
+  },
+  {
     "sku": "JF0076",
     "slot": 1,
     "path": "tiktok-sg/JF0076/01.jpg",
@@ -1783,6 +2035,13 @@
     "path": "tiktok-sg/JF0076/04.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0076/04.jpg",
     "size_bytes": 263217
+  },
+  {
+    "sku": "JF0076",
+    "slot": 5,
+    "path": "tiktok-sg/JF0076/05.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0076/05.jpg",
+    "size_bytes": 104546
   },
   {
     "sku": "JF0078",
@@ -1841,6 +2100,13 @@
     "size_bytes": 149650
   },
   {
+    "sku": "JF0078",
+    "slot": 9,
+    "path": "tiktok-sg/JF0078/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0078/09.jpg",
+    "size_bytes": 116389
+  },
+  {
     "sku": "JF0079",
     "slot": 1,
     "path": "tiktok-sg/JF0079/01.jpg",
@@ -1895,6 +2161,13 @@
     "path": "tiktok-sg/JF0079/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/08.jpg",
     "size_bytes": 240963
+  },
+  {
+    "sku": "JF0079",
+    "slot": 9,
+    "path": "tiktok-sg/JF0079/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0079/09.jpg",
+    "size_bytes": 94534
   },
   {
     "sku": "JF0082",
@@ -1953,6 +2226,13 @@
     "size_bytes": 297785
   },
   {
+    "sku": "JF0082",
+    "slot": 9,
+    "path": "tiktok-sg/JF0082/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0082/09.jpg",
+    "size_bytes": 160916
+  },
+  {
     "sku": "JF0084",
     "slot": 1,
     "path": "tiktok-sg/JF0084/01.jpg",
@@ -2007,6 +2287,13 @@
     "path": "tiktok-sg/JF0084/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/08.jpg",
     "size_bytes": 212332
+  },
+  {
+    "sku": "JF0084",
+    "slot": 9,
+    "path": "tiktok-sg/JF0084/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0084/09.jpg",
+    "size_bytes": 115084
   },
   {
     "sku": "JF0085",
@@ -2065,6 +2352,13 @@
     "size_bytes": 191828
   },
   {
+    "sku": "JF0085",
+    "slot": 9,
+    "path": "tiktok-sg/JF0085/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0085/09.jpg",
+    "size_bytes": 116207
+  },
+  {
     "sku": "JF0086",
     "slot": 1,
     "path": "tiktok-sg/JF0086/01.jpg",
@@ -2121,6 +2415,13 @@
     "size_bytes": 98633
   },
   {
+    "sku": "JF0086",
+    "slot": 9,
+    "path": "tiktok-sg/JF0086/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0086/09.jpg",
+    "size_bytes": 107934
+  },
+  {
     "sku": "JF0093",
     "slot": 1,
     "path": "tiktok-sg/JF0093/01.jpg",
@@ -2161,6 +2462,13 @@
     "path": "tiktok-sg/JF0093/06.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/06.jpg",
     "size_bytes": 216545
+  },
+  {
+    "sku": "JF0093",
+    "slot": 7,
+    "path": "tiktok-sg/JF0093/07.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0093/07.jpg",
+    "size_bytes": 84631
   },
   {
     "sku": "JF0094",
@@ -2219,6 +2527,13 @@
     "size_bytes": 211956
   },
   {
+    "sku": "JF0094",
+    "slot": 9,
+    "path": "tiktok-sg/JF0094/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0094/09.jpg",
+    "size_bytes": 112625
+  },
+  {
     "sku": "JF0103",
     "slot": 1,
     "path": "tiktok-sg/JF0103/01.jpg",
@@ -2273,6 +2588,13 @@
     "path": "tiktok-sg/JF0103/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/08.jpg",
     "size_bytes": 174974
+  },
+  {
+    "sku": "JF0103",
+    "slot": 9,
+    "path": "tiktok-sg/JF0103/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0103/09.jpg",
+    "size_bytes": 96628
   },
   {
     "sku": "JF0104",
@@ -2331,6 +2653,13 @@
     "size_bytes": 145626
   },
   {
+    "sku": "JF0104",
+    "slot": 9,
+    "path": "tiktok-sg/JF0104/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0104/09.jpg",
+    "size_bytes": 101714
+  },
+  {
     "sku": "JF0105",
     "slot": 1,
     "path": "tiktok-sg/JF0105/01.jpg",
@@ -2378,6 +2707,13 @@
     "path": "tiktok-sg/JF0105/07.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/07.jpg",
     "size_bytes": 194357
+  },
+  {
+    "sku": "JF0105",
+    "slot": 8,
+    "path": "tiktok-sg/JF0105/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0105/08.jpg",
+    "size_bytes": 70889
   },
   {
     "sku": "JF0117",
@@ -2436,6 +2772,13 @@
     "size_bytes": 234944
   },
   {
+    "sku": "JF0117",
+    "slot": 9,
+    "path": "tiktok-sg/JF0117/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0117/09.jpg",
+    "size_bytes": 78686
+  },
+  {
     "sku": "JF0118",
     "slot": 1,
     "path": "tiktok-sg/JF0118/01.jpg",
@@ -2485,6 +2828,13 @@
     "size_bytes": 198086
   },
   {
+    "sku": "JF0118",
+    "slot": 8,
+    "path": "tiktok-sg/JF0118/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0118/08.jpg",
+    "size_bytes": 77540
+  },
+  {
     "sku": "JF0119",
     "slot": 1,
     "path": "tiktok-sg/JF0119/01.jpg",
@@ -2532,6 +2882,13 @@
     "path": "tiktok-sg/JF0119/07.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/07.jpg",
     "size_bytes": 118532
+  },
+  {
+    "sku": "JF0119",
+    "slot": 8,
+    "path": "tiktok-sg/JF0119/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0119/08.jpg",
+    "size_bytes": 71321
   },
   {
     "sku": "JF0120",
@@ -2590,6 +2947,13 @@
     "size_bytes": 103351
   },
   {
+    "sku": "JF0120",
+    "slot": 9,
+    "path": "tiktok-sg/JF0120/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0120/09.jpg",
+    "size_bytes": 64701
+  },
+  {
     "sku": "JF0121",
     "slot": 1,
     "path": "tiktok-sg/JF0121/01.jpg",
@@ -2630,6 +2994,13 @@
     "path": "tiktok-sg/JF0121/06.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/06.jpg",
     "size_bytes": 110577
+  },
+  {
+    "sku": "JF0121",
+    "slot": 7,
+    "path": "tiktok-sg/JF0121/07.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0121/07.jpg",
+    "size_bytes": 98421
   },
   {
     "sku": "JF0122",
@@ -2688,6 +3059,13 @@
     "size_bytes": 147196
   },
   {
+    "sku": "JF0122",
+    "slot": 9,
+    "path": "tiktok-sg/JF0122/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0122/09.jpg",
+    "size_bytes": 97040
+  },
+  {
     "sku": "JF0147",
     "slot": 1,
     "path": "tiktok-sg/JF0147/01.jpg",
@@ -2721,6 +3099,13 @@
     "path": "tiktok-sg/JF0147/05.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/05.jpg",
     "size_bytes": 170010
+  },
+  {
+    "sku": "JF0147",
+    "slot": 6,
+    "path": "tiktok-sg/JF0147/06.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0147/06.jpg",
+    "size_bytes": 87303
   },
   {
     "sku": "JF0151",
@@ -2779,6 +3164,13 @@
     "size_bytes": 147639
   },
   {
+    "sku": "JF0151",
+    "slot": 9,
+    "path": "tiktok-sg/JF0151/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0151/09.jpg",
+    "size_bytes": 86202
+  },
+  {
     "sku": "JF0152",
     "slot": 1,
     "path": "tiktok-sg/JF0152/01.jpg",
@@ -2826,6 +3218,13 @@
     "path": "tiktok-sg/JF0152/07.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/07.jpg",
     "size_bytes": 161649
+  },
+  {
+    "sku": "JF0152",
+    "slot": 8,
+    "path": "tiktok-sg/JF0152/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0152/08.jpg",
+    "size_bytes": 83571
   },
   {
     "sku": "JF0153",
@@ -2877,6 +3276,13 @@
     "size_bytes": 226457
   },
   {
+    "sku": "JF0153",
+    "slot": 8,
+    "path": "tiktok-sg/JF0153/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0153/08.jpg",
+    "size_bytes": 73290
+  },
+  {
     "sku": "JF0154",
     "slot": 1,
     "path": "tiktok-sg/JF0154/01.jpg",
@@ -2924,6 +3330,13 @@
     "path": "tiktok-sg/JF0154/07.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/07.jpg",
     "size_bytes": 308987
+  },
+  {
+    "sku": "JF0154",
+    "slot": 8,
+    "path": "tiktok-sg/JF0154/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0154/08.jpg",
+    "size_bytes": 136916
   },
   {
     "sku": "JF0155",
@@ -2982,6 +3395,13 @@
     "size_bytes": 159952
   },
   {
+    "sku": "JF0155",
+    "slot": 9,
+    "path": "tiktok-sg/JF0155/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0155/09.jpg",
+    "size_bytes": 99655
+  },
+  {
     "sku": "JF0156",
     "slot": 1,
     "path": "tiktok-sg/JF0156/01.jpg",
@@ -3038,6 +3458,13 @@
     "size_bytes": 123661
   },
   {
+    "sku": "JF0156",
+    "slot": 9,
+    "path": "tiktok-sg/JF0156/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0156/09.jpg",
+    "size_bytes": 102281
+  },
+  {
     "sku": "JF0157",
     "slot": 1,
     "path": "tiktok-sg/JF0157/01.jpg",
@@ -3085,6 +3512,13 @@
     "path": "tiktok-sg/JF0157/07.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/07.jpg",
     "size_bytes": 141840
+  },
+  {
+    "sku": "JF0157",
+    "slot": 8,
+    "path": "tiktok-sg/JF0157/08.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0157/08.jpg",
+    "size_bytes": 86665
   },
   {
     "sku": "JF0158",
@@ -3141,5 +3575,12 @@
     "path": "tiktok-sg/JF0158/08.jpg",
     "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/08.jpg",
     "size_bytes": 101237
+  },
+  {
+    "sku": "JF0158",
+    "slot": 9,
+    "path": "tiktok-sg/JF0158/09.jpg",
+    "url": "https://raw.githubusercontent.com/wu1561208-blip/tiktok-sg-product-images/main/tiktok-sg/JF0158/09.jpg",
+    "size_bytes": 72361
   }
 ]
